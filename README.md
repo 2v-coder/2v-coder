@@ -3,15 +3,9 @@
 ## I'm a Student, Developer!
 
 - 🔭 I’m currently working on something cool!
-- 🌱 I’m currently learning React JS
-- 👯 I’m looking to collaborate with other content creators
+- 🌱 I’m currently learning React JS 
+- 👯 I’m looking to collaborate with other cool developers
 - 🥅 2020 Goals: Contribute more to Open Source projects
-
-
-### Connect with me:
-
-[<img align="left" alt="2v_coder | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="2v_coder | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
 
