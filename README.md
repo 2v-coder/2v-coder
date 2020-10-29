@@ -1,4 +1,4 @@
-### Hi there, I'm Vahan - aka [2v-coder][instagram] 👋
+### Hi there, I'm [2v-coder][instagram] 👋
 
 ## I'm a Student, Developer!
 
